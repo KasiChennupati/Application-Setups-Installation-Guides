@@ -1,0 +1,6 @@
+*.db
+*.sqlite3
+Pipeline.xlsx
+*.env
+env/*
+secrets/
